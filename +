@@ -1,0 +1,19 @@
+Subir Archivos prueba
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .idea/.gitignore
+#	new file:   .idea/encodings.xml
+#	new file:   .idea/misc.xml
+#	new file:   pom.xml
+#	new file:   src/main/java/org/example/LecturaArchivo.java
+#	new file:   src/main/java/org/example/Main.java
+#	new file:   src/main/resources/hola.txt
+#	new file:   src/test/java/org/example/LecturaArchivoTest.java
+#
